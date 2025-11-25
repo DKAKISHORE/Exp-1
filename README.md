@@ -1,5 +1,5 @@
-### Name:Ahamed Naeem M
-### Reg no:212223210002
+### Name: Kalaiselvan J
+### Reg no: 212223080022
 ## Aim:
 To verify the Kirchoff’s Current law and Voltage law for the given circuit theoretically and practically.
 
